@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorioSave", "FactorioSave\FactorioSave.csproj", "{C0024D06-E0A7-464D-BF20-8ADD75FDC611}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorioSaves", "FactorioSave\FactorioSaves.csproj", "{C0024D06-E0A7-464D-BF20-8ADD75FDC611}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
