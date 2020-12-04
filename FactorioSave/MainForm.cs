@@ -268,9 +268,6 @@ namespace FactorioSave
             //사이트 긁어오기
             HttpWebResponse resp = (HttpWebResponse)req.GetResponse();
             TextReader r = (TextReader)new StreamReader(resp.GetResponseStream(), Encoding.GetEncoding("UTF-8"));
-            //Console.WriteLine(r.ReadToEnd());
-
-            //Console.WriteLine("로그인 성공");
             return resp;
         }
     }
